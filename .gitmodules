@@ -1,0 +1,3 @@
+[submodule "BC01"]
+	path = BC01
+	url = git@github.com:Darxxemiyur/BayfaderixCommon01.git
